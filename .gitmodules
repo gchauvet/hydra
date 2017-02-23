@@ -1,8 +1,8 @@
 [submodule "GCC"]
-path = gcc
-url = https://github.com/gcc-mirror/gcc.git
-branch = gcc-6-branch
-[submodule "gcc"]
 	path = gcc
 	url = https://github.com/gcc-mirror/gcc.git
 	branch = gcc-6-branch
+[submodule "binutils"]
+	path = binutils
+	url = git://sourceware.org/git/binutils-gdb.git
+	branch = tags/binutils-2_27
