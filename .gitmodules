@@ -6,3 +6,6 @@
 	path = binutils
 	url = git://sourceware.org/git/binutils-gdb.git
 	branch = tags/binutils-2_27
+[submodule "MinGW"]
+	path = MinGW
+	url = git://git.code.sf.net/p/mingw-w64/mingw-w64
